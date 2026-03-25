@@ -61,7 +61,7 @@ chmod +x log_analyzer.sh
 
 ---
 
-## 💻 Run in GitHub Codespaces
+## Run in GitHub Codespaces
 
 1. Open repo in GitHub
 2. Click **Code → Codespaces → Create Codespace**
