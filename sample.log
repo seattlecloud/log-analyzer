@@ -1,0 +1,8 @@
+INFO User logged in
+ERROR Database connection failed
+WARNING Disk space low
+ERROR Timeout occurred
+INFO User logged out
+FAILED login attempt
+ERROR Database connection failed
+WARNING CPU usage high
